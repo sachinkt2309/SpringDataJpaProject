@@ -22,7 +22,7 @@ The project "Corporates-BO-FO" BO(Back-Office) FO(Front-Office) is a Spring Boot
 - Data Validation: The use of the Spring Boot Starter Validation indicates that the application will likely perform validation on user input to ensure data integrity and prevent errors.
 - Database Interaction: The project uses Spring Data JPA, so it's likely that the application will interact with a MySQL database to store and retrieve debtor information.
 - Web Interface: The Spring Boot Starter Web dependency suggests that the application will have a web-based user interface. Users could interact with the application through a browser.
-- View Rendering with JSP: The integration of Apache Tomcat Jasper and JSTL hints that the project use JavaServer Pages (JSP) for rendering dynamic views. This includes displaying debtor information in a user-friendly format.
+- View Rendering with JSP: The integration of Apache Tomcat Jasper and JSTL hints that the project use JavaServer Pages (JSP) for rendering dynamic views. This includes displaying Corporates information in a user-friendly format.
 - Testing: The inclusion of the Spring Boot Starter Test and Spring Security Test implies that the project have a suite of unit tests and integration tests to ensure the correctness of its features.
 - Security: Spring Security integration implies that the application may enforce access control and secure endpoints based on user roles.
 ## Backend Work
